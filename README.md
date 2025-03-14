@@ -21,7 +21,7 @@
 
 <img src="https://github.com/JosiTubaroski/Subir_Projeto_Github/blob/main/img/Git_Bash.png"/>
 
-3. Ir utilizando os comandos até concluir a subida do projeto no git hub
+3. Ir utilizando os comandos até concluir a subida do projeto no Github
 
 <img src="https://github.com/JosiTubaroski/Subir_Projeto_Github/blob/main/img/Comandos_Git.png"/>
 
