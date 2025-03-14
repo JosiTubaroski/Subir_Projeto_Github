@@ -16,3 +16,13 @@
 1. Criar o repósitorio
 
 <img src="https://github.com/JosiTubaroski/Subir_Projeto_Github/blob/main/img/GitHub_Git.png"/>
+
+2. No diretório onde está o projeto, selecionar botão direito e a opção <b>'Open Git Bash here'</b>
+
+<img src="https://github.com/JosiTubaroski/Subir_Projeto_Github/blob/main/img/Git_Bash.png"/>
+
+3. Ir utilizando os comandos até concluir a subida do projeto no git hub
+
+<img src="https://github.com/JosiTubaroski/Subir_Projeto_Github/blob/main/img/Comandos_Git.png"/>
+
+
